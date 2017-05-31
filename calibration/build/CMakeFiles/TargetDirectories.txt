@@ -1,3 +1,0 @@
-/home/mayankm/iitk-club/stereo_vision/calibration/build/CMakeFiles/edit_cache.dir
-/home/mayankm/iitk-club/stereo_vision/calibration/build/CMakeFiles/rebuild_cache.dir
-/home/mayankm/iitk-club/stereo_vision/calibration/build/CMakeFiles/calibration.dir
