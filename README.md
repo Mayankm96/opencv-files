@@ -23,6 +23,8 @@ cd calibration
 mkdir build && cd build
 cmake ..
 make
-./Calibration -w=4 -h=5 -s=0.025 -o=camera.yml -op -oe
-
+./calibration -w=4 -h=5 -s=0.025 -o=camera.yml -op -oe
 ```
+
+# Good Practice
+Run the `clean.sh` everytime before pushing your code to the git repo. 
